@@ -42,3 +42,14 @@ window.addEventListener("load", () => {
         dayNight.querySelector("i").classList.add("fa-moon");
     }
 })
+
+/* ============================== Active side bar ============================= */
+// const sideActive = document.querySelector(".btnSide-js");
+
+// sideActive.addEventListener("click", () => {
+//     if (sideActive.classList.contains("active")) {
+//         sideActive.classList.remove("active");
+//     } else {
+//         sideActive.classList.add("active");
+//     }
+// });
